@@ -1,0 +1,4 @@
+﻿Section1
+Section 2: 
+I tagged the POS manually. The most challenging part had to be tagging the Spanish prepositions. The other difficulty was the amount of words I had to tag, but it became a much faster process after the first few sentences. I suppose differentiating between the action and auxiliary verbs in Spanish was also hard.
+Section3
